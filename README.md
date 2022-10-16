@@ -2,11 +2,7 @@
 
 ## Requirements
 
-Just install requirements by the following command:
-
-'''bash
-pip install -r requirements.txt
-'''
+Just install requirements by the following command `pip install -r requirements.txt`
 
 ## For Receivers
 
